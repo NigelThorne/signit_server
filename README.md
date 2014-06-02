@@ -1,3 +1,9 @@
+signit
+======
+
+Digital signature client app that posts your signature even to a signature server. 
+
+
 # Runing a sinatra application on Docker
 
 This is sample project for running a sinatra application on Docker.
