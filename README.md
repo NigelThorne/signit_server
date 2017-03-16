@@ -1,7 +1,7 @@
 signit
 ======
 
-Digital signature client app that posts your signature even to a signature server. 
+Digital signature client app that posts your signature event to a signature server. 
 
 
 # Runing a sinatra application on Docker
