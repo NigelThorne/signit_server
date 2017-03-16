@@ -1,7 +1,7 @@
-signit
+signit_server
 ======
 
-Digital signature client app that posts your signature event to a signature server. 
+Digital signature server _ mock implementation. 
 
 
 # Runing a sinatra application on Docker
