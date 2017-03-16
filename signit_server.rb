@@ -21,5 +21,5 @@ class Application < Sinatra::Base
         content_type 'text/text'
         @@signatures[name].join( "\n\n" )
     end
-    run! if app_file == $0
+
 end

@@ -15,7 +15,7 @@ RUN cd /root/src/ruby-2.2.2; ./configure; make install
 RUN gem update --system
 RUN gem install bundler
 
-RUN git clone https://github.com/tcnksm/docker-sinatra /root/sinatra
+RUN git clone https://github.com/NigelThorne/signit.git /root/sinatra
 RUN cd /root/sinatra; bundle install
 
 EXPOSE 4567
